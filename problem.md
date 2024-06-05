@@ -1,0 +1,1 @@
+Q1: In hw6, if we declare the function like q2::sort or q1::gradient\_descent to be unstatic, then when we type make, g++ complains multiply defination of the ese functions, but if we define these functions to be static, then we pass the tests, why?
